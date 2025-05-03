@@ -11,7 +11,7 @@ import { ContactSection } from "@/components/sections/contact-section";
 import { AnimatePresence, motion } from "framer-motion";
 
 const Index = () => {
-  const [activeSection, setActiveSection] = useState("projects");
+  const [activeSection, setActiveSection] = useState("home");
 
   const renderSection = () => {
     switch (activeSection) {
