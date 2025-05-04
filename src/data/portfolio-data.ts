@@ -282,7 +282,7 @@ export const certifications: Certification[] = [
 export const socialLinks: SocialLink[] = [
   {
     platform: "LinkedIn",
-    url: "https://linkedin.com/in/hussien-shokry",
+    url: "https://www.linkedin.com/in/hussienshokry/",
     icon: "linkedin"
   },
   {
